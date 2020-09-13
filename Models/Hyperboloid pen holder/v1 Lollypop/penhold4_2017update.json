@@ -1,0 +1,16 @@
+{
+    "parameterSets": {
+        "Lollypop v1": {
+            "holder_height": "15",
+            "holder_radius": "25",
+            "holder_thickness": "3",
+            "pen_count": "16",
+            "pen_length": "100",
+            "pen_radius": "1.8",
+            "rotx": "45",
+            "rotz": "-50",
+            "tube_bottom_thickness": "3"
+        }
+    },
+    "fileFormatVersion": "1"
+}
